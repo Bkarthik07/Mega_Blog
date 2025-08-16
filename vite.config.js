@@ -8,5 +8,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: './',   // 👈 ensures assets load correctly after deploy
+  // Change this line
+  base: '/',      
 })
