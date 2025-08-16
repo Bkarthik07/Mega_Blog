@@ -5,7 +5,7 @@ import Logo from "../Logo/Logo";
 import Logout from "./Header/Logout";
 import Button from "./Button"
 import Input from "./Input";
-import Select from "./select";
+import Select from "./Select";
 import PostCard from "./PostCard";
 import Signup from "./Signup";
 import Login from "./Login";
